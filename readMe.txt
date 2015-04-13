@@ -1,6 +1,3 @@
-# MyCodes
-Multiprocessor Programming
-
 
 
 Command line arguments:
